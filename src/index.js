@@ -1,1 +1,2 @@
-require('./arrays')
+// require('./arrays')
+require('./string')
