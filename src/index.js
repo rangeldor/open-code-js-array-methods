@@ -1,2 +1,3 @@
 // require('./arrays')
-require('./string')
+// require('./string')
+require('./date')
